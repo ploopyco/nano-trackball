@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=MiniBall.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MiniBall.SchDoc|Designator=MCH|SchDesignator=MCH|FileName=Mechanical.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Mechanical.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MiniBall.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MiniBall.SchDoc|Designator=MOS|SchDesignator=MOS|FileName=MouseSensor.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=MouseSensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MiniBall.SchDoc|Designator=USB|SchDesignator=USB|FileName=Connectors.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
