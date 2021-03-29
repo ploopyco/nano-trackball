@@ -14,6 +14,8 @@ Kits bought from the [Ploopy store](https://www.ploopy.co/product/nano-trackball
 
 To find the latest firmware, check out the [Nano QMK repository](https://github.com/ploopyco/nano-qmk-firmware/tree/pinkyball) (specifically, the `pinkyball` branch). Eventually, this will be merged into the main QMK repository.
 
+The firmware hex file that ships with all Nanos is included in this repository as well, as `ploopyco_trackball_nano_rev1_001_default.hex`.
+
 ## Under what license is this released?
 
 As per QMK's licensing requirements, the firmware for the Ploopy Nano Trackball is released under GPLv3. Hardware design files, including electronics and mechanical files, are released under OHL CERN v1.2. Check the `LICENSE` file for full license text.
